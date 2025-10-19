@@ -16,6 +16,6 @@ public class App
 
         c = a + b;
 
-        System.out.println("Result of Addition:-"+c);
+        System.out.println("The sum of " + a + " and " + b + " is: " + c);
     }
 }
